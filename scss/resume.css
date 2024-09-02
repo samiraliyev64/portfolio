@@ -140,4 +140,9 @@ a:hover, a:focus, a:active {
 .marvel {
   height: 200px !important;
   width: 200px !important;
+}
+
+.flag {
+  width: 50px;
+  height: 50px;
 }/*# sourceMappingURL=resume.css.map */
