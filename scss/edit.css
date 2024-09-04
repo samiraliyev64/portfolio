@@ -1,6 +1,12 @@
 .flag{
-  width:35px;
-  height:35px;
+  width: 35px;
+  height: 35px;
+}
+
+@media (max-width: 991px) {
+  .devedu{
+    margin-top:25px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -20,5 +26,3 @@
     height:300px;
   }
 }
-
-
