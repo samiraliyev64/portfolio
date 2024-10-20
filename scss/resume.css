@@ -137,12 +137,12 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-.marvel {
-  height: 200px !important;
-  width: 200px !important;
-}
-
 .flag {
   width: 50px;
   height: 50px;
+}
+
+.marvel {
+  height: 400px !important;
+  width: 100% !important;
 }/*# sourceMappingURL=resume.css.map */
